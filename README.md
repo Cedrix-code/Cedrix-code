@@ -8,10 +8,10 @@
 </section>
 
 - 👀 I’m interested in Software Development. Beach and AAA Games!!
-- 🌱 I’m currently learning Web development technologies:
-<p align="center">
+- 🌱 I am currently using these technologies:
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,next" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,next,figma,blender&perline=3" />
   </a>
 </p>
 

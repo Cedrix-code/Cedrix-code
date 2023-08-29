@@ -11,7 +11,7 @@
 - 🌱 I am currently using these technologies:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,next,figma,blender&perline=6" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,next,figma,blender" />
   </a>
 </p>
 

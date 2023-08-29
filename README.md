@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning Web development technologies:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript, reactjs, nextjs, adobeillustrator" />
   </a>
 </p>
 

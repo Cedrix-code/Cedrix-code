@@ -15,7 +15,7 @@
   </a>
 </p>
 
-- 📫 This personal github is a work in progress. . . Will definitely improve this once enough knowledge is gathered
+- 📫 This personal github is a WIP. . . 
 
 
 <!---
